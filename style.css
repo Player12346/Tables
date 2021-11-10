@@ -1,0 +1,24 @@
+table{
+    background-color: rgb(126, 134, 14);
+    border: 2px solid red;
+    width: 270px;
+    height: 1000;
+    margin: auto;
+    text-align: center;    
+}
+h1{
+text-align: center;
+}
+.head{
+    background-color: rgb(238, 255, 0);
+    
+}
+img{
+    border-radius: 30%;
+}
+.name{
+    background-color: rgba(255, 0, 0, 0.795);
+}
+.Nord{
+    background-color: chartreuse;
+}
